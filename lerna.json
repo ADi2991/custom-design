@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "npmClient": "npm",
+  "packages": ["packages/*"],
+  "command": {
+    "version": {
+      "npmClientArgs": [
+        "--no-push"
+      ]
+    }
+  }
+}
