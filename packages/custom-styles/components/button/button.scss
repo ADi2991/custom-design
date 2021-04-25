@@ -1,0 +1,11 @@
+@use '../base/base.scss';
+
+.button {
+  height: 2rem;
+  width: 5rem;
+  background-color: #3697ea;
+  border-radius: 0.5rem;
+  color: white;
+  padding-top: 10px;
+  text-align: center;
+}
